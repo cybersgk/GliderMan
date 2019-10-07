@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: f363a1c974b0b8349a5ea664b8e9547a
+timeCreated: 1515653678
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Trebuchet MS
+  fontNames:
+  - Trebuchet MS
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 607826539a20bc341835b486c89c9d79, type: 3}
+  - {fileID: 12800000, guid: 9dde791414a88ad42b6be0cea9e1e0dc, type: 3}
+  - {fileID: 12800000, guid: 241c0cfce9755fc498cad86e15d75f27, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
